@@ -14,7 +14,7 @@
 - 👨‍💻 Coding 
 - 🎨 Graphic design
 - 🎧 Audio lover
-- 
+
 ## 🌱 I’m currently learning about SE(front end)
 
 
